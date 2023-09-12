@@ -1,4 +1,4 @@
-package com.svit.opps;
+package com.svit.oops;
 
 public class Staticdemo {
 	int a;

@@ -1,4 +1,4 @@
-package com.svit.opps;
+package com.svit.oops;
 
 import java.util.Scanner;
 

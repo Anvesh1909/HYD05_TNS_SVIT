@@ -1,6 +1,6 @@
 package com.staticinstance;
 
-//filename Test.java
+
 public class TestOverloadInstance {
 	public  void foo() {
 		System.out.println("Test.foo() called ");
